@@ -1,0 +1,7 @@
+Use the data loans_income.csv to do listed practice:
+
+Read the data in pandas, 
+1. Draw a sample with 1000 observations. Plot the sample's data distribution
+2. Implemented bootstrap to take 10, 50 , 100, 1000 times resampling to repeatedly draw an income sample with 10 incomes. Plot the sample mean distribution for each resampling 
+3. Implemented bootstrap to take 10, 50 , 100, 1000 times resampling to repeatedly draw an income sample with 100 incomes. Plot the sample mean distribution for each resampling 
+4. Overlapping distribution plots in 2 and 3 when resampling time is the same.
